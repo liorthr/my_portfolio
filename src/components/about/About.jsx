@@ -27,7 +27,7 @@ focus on backend development. I have extensive experience in website design,
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Backend</h3>
+                <h3 className="skills__name">Backend (Python, JavaScript)</h3>
                 <span className="skills__number">100%</span>
               </div>
 
@@ -38,7 +38,7 @@ focus on backend development. I have extensive experience in website design,
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Frontend</h3>
+                <h3 className="skills__name">Frontend (ReactJS, Tailwindcss)</h3>
                 <span className="skills__number">100%</span>
               </div>
 
@@ -49,7 +49,7 @@ focus on backend development. I have extensive experience in website design,
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">UI/UX Design</h3>
+                <h3 className="skills__name">UI/UX Design (Figma)</h3>
                 <span className="skills__number">100%</span>
               </div>
 
