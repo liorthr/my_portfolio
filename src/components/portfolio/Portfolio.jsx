@@ -23,15 +23,16 @@ const Portfolio = () => {
         <span className="work__item" onClick={() => filterItem("E-commerce")}>
         E-commerce
         </span>
+        <span className="work__item" onClick={() => filterItem("WebApp")}>
+          WebApp
+        </span>
         <span className="work__item" onClick={() => filterItem("Food")}>
          Food
         </span>
         <span className="work__item" onClick={() => filterItem("Wordpress")}>
         Wordpress
         </span>
-        <span className="work__item" onClick={() => filterItem("Branding")}>
-          Branding
-        </span>
+        
       </div>
 
       <div className="work__container grid">
