@@ -14,15 +14,15 @@ import Image9 from "../../assets/stack/icons8-rest-api-100.png";
 const data = [
   {
     id: 1,
-    image: Image1,
-    title: "JavaScript",
+    image: Image4,
+    title: "Python",
     description:
       "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
   },
   {
     id: 2,
-    image: Image2,
-    title: "NodeJS",
+    image: Image1,
+    title: "JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
   },
@@ -35,8 +35,8 @@ const data = [
   },
   {
     id: 4,
-    image: Image4,
-    title: "Python",
+    image: Image2,
+    title: "NodeJS",
     description:
       "Lorem ipsum dolor sit amet consectetuer adipiscing el        aenean commodo ligula eget.",
   },

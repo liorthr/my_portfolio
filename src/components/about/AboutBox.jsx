@@ -7,7 +7,7 @@ const AboutBox = () => {
         <i className="about__icon icon-fire"></i>
 
         <div>
-          <h3 className="about__title">26</h3>
+          <h3 className="about__title">6</h3>
           <span className="about__subtitle">Project completed</span>
         </div>
       </div>
@@ -17,7 +17,7 @@ const AboutBox = () => {
 
         <div>
           <h3 className="about__title">1670</h3>
-          <span className="about__subtitle">Cup of coffee</span>
+          <span className="about__subtitle">Cup of water</span>
         </div>
       </div>
 

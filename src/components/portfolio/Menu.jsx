@@ -4,6 +4,7 @@ import Work3 from "../../assets/projects/project-consulting26.png";
 import Work4 from "../../assets/projects/project-formawork.png";
 import Work5 from "../../assets/projects/project-myportfolio.png";
 import Work6 from "../../assets/projects/project-petfy2.png";
+import Work7 from "../../assets/projects/project-hospitalcrm.png";
 
 const Menu = [
   {
@@ -50,6 +51,13 @@ const Menu = [
     title: "App in progress",
     category: "WebApp",
     link: 'https://www.github.com/',
+  },
+  {
+    id: 7,
+    image: Work7,
+    title: "Hospital CRM",
+    category: "WebApp",
+    link: 'https://github.com/liorthr/hackathon3',
   },
 ];
 
